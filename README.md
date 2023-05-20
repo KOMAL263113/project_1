@@ -1,4 +1,4 @@
-# Product-landing-page
+#project_1
 Product landing Page using HTML, CSS and JavaScript
 
 Hello Everyone!
