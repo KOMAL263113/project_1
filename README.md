@@ -1,5 +1,6 @@
 # Product-landing-page
-Product landing Page using HTML, CSS and JavaScript 
+Product landing Page using HTML, CSS and JavaScript
+
 Hello Everyone!
 I have done this project on vs code 
 just go trough the codes and run in your ide.
